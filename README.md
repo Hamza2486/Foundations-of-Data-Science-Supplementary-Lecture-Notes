@@ -34,7 +34,7 @@ Each PDF is designed to be visual, clear, and pedagogically grounded for student
 
 ---
 
-## 🧠 Author
+## Author
 
 Hamza Alshamy  
 M.S. in Data Science | New York University  
