@@ -38,4 +38,4 @@ Each PDF is designed to be visual, clear, and pedagogically grounded for student
 
 Hamza Alshamy  
 M.S. in Data Science | New York University  
-[LinkedIn](https://www.linkedin.com/in/hamza-a-alshamy-0933631a5/) | [GitHub]([https://github.com/Hamza2486](https://github.com/Hamza2486?tab=repositories))
+[LinkedIn](https://www.linkedin.com/in/hamza-a-alshamy-0933631a5/) | [GitHub]([https://github.com/Hamza2486](https://github.com/Hamza2486?tab=repositories)
