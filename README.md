@@ -1,4 +1,4 @@
-# A Course in Principles of Data Science: Foundations of Statistics and Machine Learning
+# Foundations of Data Science: From Statistics and Machine Learning
 
 This repository contains a series of lecture-style slides I developed and used to teach recitation sections for **Principles of Data Science II (DS-UA 112)** at NYU.
 
