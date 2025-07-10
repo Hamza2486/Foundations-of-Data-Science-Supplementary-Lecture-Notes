@@ -28,7 +28,7 @@ Each PDF is designed to be visual, clear, and pedagogically grounded for student
 | Lab 09 - Parametric Significance Tests | z-test, t-test, assumptions |
 | Lab 10 - Non-Parametric Significance Tests | Chi-squared, Kolmogorov-Smirnov, Mann-Whitney, permutation |
 | Lab 11 - Replication Crisis & Effect Size | Cohen's \( d \), power, reproducibility |
-| Lab 12 - Confidence Intervals & Bootstrapping | Estimation, resampling, Bayesian logic |
+| Lab 12 - Confidence Intervals & Bootstrapping | Estimation and resampling |
 | Lab 13 - Classification | Confusion matrix, accuracy, ROC |
 | Lab 14 - Unsupervised Learning | Dimensionality reduction and clustering |
 
