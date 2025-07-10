@@ -20,7 +20,7 @@ Each PDF is designed to be visual, clear, and pedagogically grounded for student
 | Slide Title | Topics |
 |-------------|--------|
 | Lab 02 - Linear Algebra | Vector norms and projections |
-| Lab 03 - Probability Theory | Random variables, conditional probability |
+| Lab 03 - Probability Theory | Random variables, conditional probability, and Bayes' Theorem |
 | Lab 04 - Distributions, Central Tendency & Dispersion | Mean, variance, histogram shapes |
 | Lab 05 - Correlation | Pearson, Spearman, and Chatterjee |
 | Lab 07 - Experimental and Statistical Control | Confounding, partial correlation, and regression |
